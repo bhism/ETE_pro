@@ -4,6 +4,6 @@ setup(
     name="Pro_us_visa",
     version="0.0.0",
     author="Bappy",
-    author_email="entbappy73@gmail.com",
+    author_email="cp277478@gmail.com",
     packages=find_packages()
 )
