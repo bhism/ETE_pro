@@ -1,0 +1,16 @@
+https://www.youtube.com/playlist?list=PLkz_y24mlSJZvJOj1UXiJPVRQrNFdNEXX
+
+video 1:
+
+1:08:00 > create and run of template
+
+create virtual env 
+
+    python -m venv visa_env
+    visa_env\Scripts\activate
+
+
+
+
+
+
