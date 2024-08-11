@@ -1,5 +1,9 @@
 https://www.youtube.com/playlist?list=PLkz_y24mlSJZvJOj1UXiJPVRQrNFdNEXX
 
+https://github.com/bhism/ETE_pro
+
+https://github.com/entbappy/MLOPs-Production-Ready-Machine-Learning-Project
+
 video 1:
 
 1:08:00 > create and run of template
