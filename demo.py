@@ -1,12 +1,5 @@
 
-from Pro_us_visa.logger import logging
-from Pro_us_visa.exception import USvisaException
-import sys
+from Pro_us_visa.pipline.training_pipeline import TrainPipeline
 
-
-logging.info("started")
-
-try:
-    a = 2/0
-except Exception as e:
-    raise USvisaException(e,sys)
+obj = TrainPipeline()
+obj.run_pipeline() 
